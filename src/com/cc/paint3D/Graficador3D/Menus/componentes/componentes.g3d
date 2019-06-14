@@ -1,0 +1,12 @@
+MENU:Figuras Basicas
+Cubo:Figura_cubo
+Caja:Figura_caja
+Esfera:Figura_esfera
+Cilindro:Figura_cilindro
+Cono:Figura_cono
+MSEP
+Tetraedro:Figura_tetra
+terreno Fractal:Figura_terreno_Fractal
+MENU:Texto
+Texto en 2D:Figura_texto2D
+Texto en 3D:Figura_texto3D
